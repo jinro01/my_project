@@ -10,3 +10,4 @@ const a = 10;
 - python 공부하기
 - Terraform 공부하기
 - docker 공부하기
+- k8s 공부하기
