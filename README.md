@@ -8,3 +8,5 @@ const a = 10;
 - git 공부하기
 - 네트워크 공부하기
 - python 공부하기
+- Terraform 공부하기
+
